@@ -36,7 +36,7 @@ So now you can avoid thinking about always changing these links
 You can installed it via Cargo
 
 ```bash
-update here
+cargo install --git https://github.com/ALEZ-DEV/Bread-Scripter --bin
 ```
 
 and just that the tool like that
